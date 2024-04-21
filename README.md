@@ -5,10 +5,10 @@ A keylogger is a program that records your keystrokes, and this program saves th
 Check out below to learn how to install them. These keyloggers are simple and bare bones, however they work great! Feel free to fork and improve it if you want.
 
 ## Usage
-'''
+```
   pip install -r requirements. txt
   keylogger.py
-'''
+```
 
 ### How to run it
 
